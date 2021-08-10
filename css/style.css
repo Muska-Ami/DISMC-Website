@@ -1253,7 +1253,7 @@ input:checked + .slider:before {
 }
 
 .post-round .image img {
-  border-radius: 50%;
+  border-radius: 5%;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
@@ -1343,7 +1343,7 @@ input:checked + .slider:before {
 }
 
 .post-list .image img {
-  border-radius: 50%;
+  border-radius: 5%;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
   width: 200px;
@@ -1423,7 +1423,7 @@ input:checked + .slider:before {
 }
 
 .post-box .image img {
-  border-radius: 50%;
+  border-radius: 5%;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
@@ -1501,7 +1501,7 @@ input:checked + .slider:before {
 }
 
 .post-full .image img {
-  border-radius: 50%;
+  border-radius: 5%;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
