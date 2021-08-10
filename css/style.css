@@ -1937,7 +1937,7 @@ input:checked + .slider:before {
 }
 
 .hero .image img {
-  border-radius: 50%;
+  border-radius: 5%;
 }
 
 .hero .post .categorie {
