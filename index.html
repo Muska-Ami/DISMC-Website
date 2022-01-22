@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <!--[if lt IE 9]>
-            <script type="text/javascript" src="./static/js/html5.js"></script>
-        <![endif]-->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -227,11 +224,13 @@
                                     </div>
                                 </div>
                             </div>
+                            <!--音乐播放器-->
                             <div id="aplayer"></div>
                             <script>
                                 const ap = new APlayer({
                                     container: document.getElementById('aplayer'),
                                     fixed: true,
+                                    autoplay: true,
                                     audio: [{
                                         name: 'BGM',
                                         artist: '',
