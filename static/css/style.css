@@ -366,11 +366,6 @@ p {
     padding: 140px 0
 }
 
-.page1 {
-    background: url(images/page1.jpg) no-repeat center center;
-    background-size: cover
-}
-
 .page1_text .img_box {
     width: 470px;
     float: left;
@@ -449,11 +444,6 @@ p {
 
 .btn a:hover {
     background: #00639a
-}
-
-.page2 {
-    background: url(images/page2.jpg) no-repeat center center;
-    background-size: cover
 }
 
 .page2_text {
@@ -590,11 +580,6 @@ p {
 
 .page2_owl .item.on .box,.page2_owl .item .box:hover {
     background: rgba(255,255,255,.2)
-}
-
-.page3 {
-    background: url(images/page3.jpg) no-repeat center center;
-    background-size: cover
 }
 
 .page3_text {
